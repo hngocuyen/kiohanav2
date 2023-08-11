@@ -3,7 +3,7 @@
 > ![Kiohana Logo](https://github.com/hngocuyen/kiohanav2/blob/main/img/panel.png)
 > Only Python 3.10 or higher
 > ![Kiohana Rank](https://github.com/hngocuyen/kiohanav2/blob/main/img/rank.png)
-> Ranking Example
+> Ranking Example <br>
 > If U Cant Install Py3.10, Using No Menu, node <methods.js> <br>
 # Kiohana Info
 - [Kiohana] Created within 9 days
