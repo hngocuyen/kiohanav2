@@ -1,6 +1,6 @@
 #  Kiohana Powerfull DDOS PANEL
 > Username And Ranking, Enter "rank" to see user access
-> ![Kiohana Logo](https://raw.githubusercontent.com/hngocuyen/kiohana/main/img/D%E1%BB%B1%20%C3%A1n%20m%E1%BB%9Bi%20398%20%5B34A2DD8%5D.png)
+> ![Kiohana Logo](https://github.com/hngocuyen/kiohanav2/blob/main/img/1.png)
 > Only Python 3.10
 > If U Cant Install Py3.10, Using No Menu, node <methods.js> <br>
 # Kiohana Info
