@@ -1,7 +1,9 @@
 #  Kiohana Powerfull DDOS PANEL
 > Username And Ranking, Enter "rank" to see user access
-> ![Kiohana Logo](https://github.com/hngocuyen/kiohanav2/blob/main/img/1.png)
-> Only Python 3.10
+> ![Kiohana Logo](https://github.com/hngocuyen/kiohanav2/blob/main/img/panel.png)
+> Only Python 3.10 or higher
+> ![Kiohana Rank](https://github.com/hngocuyen/kiohanav2/blob/main/img/rank.png)
+> Ranking Example
 > If U Cant Install Py3.10, Using No Menu, node <methods.js> <br>
 # Kiohana Info
 - [Kiohana] Created within 9 days
@@ -16,9 +18,9 @@ apt update -y && apt install sudo && -y sudo apt upgrade -y && sudo apt install 
 ```
 # Test
 > 1 Tab Sakura
-> ![Kiohana 1tab](https://raw.githubusercontent.com/hngocuyen/kiohana/main/img/1.png)
+> ![Kiohana 1tab](https://github.com/hngocuyen/kiohanav2/blob/main/img/1.png)
 > 7 Tabs Sakura
-> ![Kiohana 7tab](https://raw.githubusercontent.com/hngocuyen/kiohana/main/img/2.png)
+> ![Kiohana 7tab](https://github.com/hngocuyen/kiohanav2/blob/main/img/2.png)
 # Warning:
 ```sh
 Do not attack government pages (.gov/.gob), educational pages (.edu) or the United States Department of Defense (.mil), 
